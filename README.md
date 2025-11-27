@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hey, I am Sem 👋
 
 **Web Developer @ ROX (Rotterdam)**
 
